@@ -1,0 +1,14 @@
+README.md
+  h_f1b9066eb9899c 13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "4c52d0f73fc3e6b21a446cbc8bdd38bbbe2cf437",
+  "prompts": {},
+  "humans": {
+    "h_f1b9066eb9899c": {
+      "author": "fh1m <fahim.2002.faisal@gmail.com>"
+    }
+  }
+}
