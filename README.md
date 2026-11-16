@@ -3,7 +3,7 @@
 **How few keystrokes can a new tab take you anywhere in?**
 
 A browser new-tab page that is a black screen, a clock and a text box. It's
-built on Ozenc Bilgili's [Tilde Enhanced](https://github.com/ozencb/tilde-enhanced) (MIT),
+built on Ozenc Bilgili's [Tilde Enhanced](https://github.com/ozencb/tilde-enhanced),
 re-keyed for how I actually move around the web, in October 2023.
 
 ![The help grid, opened by typing ?](assets/shots/help.png)
@@ -60,4 +60,4 @@ Edit `js/config.js` to change keys, colours and categories. Icons live in
 
 - The default search command is labelled `Duckduckgo` but points at Google.
   It's a leftover from the template, and it never shows in the grid.
-- Licence: MIT, inherited from Tilde Enhanced (see `LICENSE`).
+- Licence: public domain (the Unlicense, see `LICENSE`).
