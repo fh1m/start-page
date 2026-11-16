@@ -6,6 +6,12 @@ A browser new-tab page that is a black screen, a clock and a text box. It's
 built on Ozenc Bilgili's [Tilde Enhanced](https://github.com/ozencb/tilde-enhanced),
 re-keyed for how I actually move around the web, in October 2023.
 
+![October 2023: the start page in its natural habitat, a riced bspwm desktop](assets/original/2023-clock.png)
+
+*October 2023, in its natural habitat: a riced bspwm desktop. Haze, 31 °C,
+uptime 1 day 5 hours. The setup has moved on (see
+[.dotfiles](https://github.com/fh1m/.dotfiles)); the start page stayed.*
+
 ![The help grid, opened by typing ?](assets/shots/help.png)
 
 ## The idea
@@ -58,6 +64,7 @@ Edit `js/config.js` to change keys, colours and categories. Icons live in
 
 ## Notes
 
-- The default search command is labelled `Duckduckgo` but points at Google.
-  It's a leftover from the template, and it never shows in the grid.
+- The default search used to be labelled `Duckduckgo` while pointing at Google,
+  a leftover from the template. It's labelled `Google` now, which is at least honest.
+- `README-2023.md` is the original one-line README with its screenshots.
 - Licence: public domain (the Unlicense, see `LICENSE`).
