@@ -10,7 +10,7 @@ re-keyed for how I actually move around the web, in October 2023.
 
 *October 2023, in its natural habitat: a riced bspwm desktop. Haze, 31 °C,
 uptime 1 day 5 hours. The setup has moved on (see
-[.dotfiles](https://github.com/fh1m/.dotfiles)); the start page stayed.*
+[.dotfiles](https://github.com/fh1m/.dotfiles)).*
 
 ![The help grid, opened by typing ?](assets/shots/help.png)
 
